@@ -2,7 +2,9 @@
 A platform game with 2 player multiplayer support
 
 ##About this game
-When opened, it will ask you to run a server or not. When pressed yes, you will become a host [others have to press no in order to join someone on a local network]
+This is a archive-export from eclipse, so it can be edited by your likes
+
+When opened, it will ask you whether to run a server or not. When pressed yes, you will become a host [others have to press no in order to join someone on a local network]
 
 Feel free to enter any name you like [can even be left blank]
 
